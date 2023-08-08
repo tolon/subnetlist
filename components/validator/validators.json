@@ -55,5 +55,14 @@
     "feePercentage": 7,
     "openToValidate": true,
     "contactURL": "t.me/mahof,https://mahof.info"
+  },
+  {
+    "nodeID": "NodeID-9oP7KmQjtxi7rK5GKmRXFNuNpPmr2vzfw",
+    "description": "tulunoglu ",
+    "totalStake": 2001,
+    "feePercentage": 2,
+    "openToValidate": false,
+    "contactURL": "https://t.me/tulunoglu"
   }
-]
+  ]
+
